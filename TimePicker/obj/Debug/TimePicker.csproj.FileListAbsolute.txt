@@ -1,0 +1,9 @@
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\bin\Debug\TimePicker.exe.config
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\bin\Debug\TimePicker.exe
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\bin\Debug\TimePicker.pdb
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\obj\Debug\TimePicker.csprojResolveAssemblyReference.cache
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\obj\Debug\TimePicker.Form1.resources
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\obj\Debug\TimePicker.Properties.Resources.resources
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\obj\Debug\TimePicker.csproj.GenerateResource.Cache
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\obj\Debug\TimePicker.exe
+D:\Ayudantia\proyectos-visualstudio\TimePicker\TimePicker\obj\Debug\TimePicker.pdb
